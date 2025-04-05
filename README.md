@@ -16,5 +16,5 @@ A machine learning project using unsupervised clustering to identify unique cust
 
 ## 📁 Files
 - `customer_segmentation.ipynb`: Main notebook
-- `customer_data.csv`: Raw dataset
+- `marketing_campaign.csv`: Raw dataset
 - `elbow_method.png`, `cluster_characteristics.png`: Visual outputs
